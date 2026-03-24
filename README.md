@@ -683,6 +683,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/ykyritsis/ChatGPT-code-preview">github</a></p>
 </div>
 
+### claw-army/claude-node
+<div><a href="https://github.com/claw-army/claude-node"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/claw-army/claude-node"><img src="https://img.shields.io/github/stars/claw-army/claude-node?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.</p>
+
+<p><a href="https://github.com/claw-army/claude-node">github</a></p>
+</div>
+
 ### Claude 3 Artifacts by PierrunoYT
 <div><a href="https://github.com/PierrunoYT/claude-3-artifacts"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/PierrunoYT/claude-3-artifacts"><img src="https://img.shields.io/github/stars/PierrunoYT/claude-3-artifacts?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 14 stars (Updated: 2024-08-05)</p>
